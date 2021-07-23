@@ -10,3 +10,7 @@ kubeconfig
 # personalkeys
 fluxkey
 personalkey
+# temp
+tmpl/
+# 
+.env
